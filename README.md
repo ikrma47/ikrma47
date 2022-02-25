@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ikrma Ahmad
 - 👀 I’m interested in full stack development and deployment
-- 🌱 I’m currently working on a Full stack project at my university 
+- 🌱 I’m currently pursuing Freelancing as a FullStack Developer.
+- ⌘ My Skillset is Javascript, React, Node and Django.
 - 📫  My Email is **ikrmaahmad47@gmail.com** and My LinkedIn is **[Ikrma Ahmad](https://www.linkedin.com/in/ikrma-ahmad/ "LinkedIn")**
 
 <!---
