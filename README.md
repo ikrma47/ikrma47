@@ -12,7 +12,7 @@ I am interested in and talking about Python, JavaScript, and Software Engineerin
 
 ![](https://img.shields.io/badge/Language-JavaScript-green) 
 ![](https://img.shields.io/badge/Stack-PERN-blue)
-![Profile views](https://gpvc.arturio.dev/ikrma47)
+![](https://komarev.com/ghpvc/?username=ikrma47&style=flat-square&color=blue)
 
 ### Connect with me:
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ikrma-ahmad/) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:ikrmaahmad47@gmail.com)
