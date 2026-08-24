@@ -103,8 +103,8 @@ const ikrma = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ikrma47&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikrma47&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=ikrma47&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ikrma47&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br/><br/>
 
@@ -113,10 +113,6 @@ const ikrma = {
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikrma47&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution graph" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ikrma47&theme=tokyonight&no-frame=true&margin-w=8&column=7" alt="GitHub trophies" />
 
 </div>
 
