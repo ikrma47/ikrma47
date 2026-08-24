@@ -103,7 +103,7 @@ const ikrma = {
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=ikrma47&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=ikrma47&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="GitHub stats" />
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ikrma47&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br/><br/>
