@@ -108,12 +108,10 @@ const ikrma = {
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ikrma47&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ikrma47&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution graph" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikrma47/ikrma47/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ikrma47/ikrma47/output/snake.svg" alt="Snake animation" />
+</picture>
 </div>
 
 <br/>
