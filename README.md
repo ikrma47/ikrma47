@@ -39,6 +39,16 @@ const ikrma = {
 
 <br/>
 
+## 🔭 Currently
+
+- 🚀 Building & scaling a SaaS platform at **3CIX** on a self-managed Kubernetes cluster
+- 🧠 Going deeper into **Temporal.io** and **Next.js Server Components**
+- 💬 Ask me about **Kubernetes, Node.js, React, Django, CI/CD**
+- 🤝 Open to **freelance projects** on Upwork
+- 📫 Reach me at **ikrmaahmad47@gmail.com**
+
+<br/>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -86,16 +96,6 @@ const ikrma = {
 | Set up **Jenkins CI/CD** (master + workers) with BitBucket webhooks | **AWS Lambda** functions for bulk file scanning & secure bulk downloads |
 | Segregated **Dev / Staging / Prod** pipelines with Docker | Real-time chat with **Socket.io** & encrypted webhooks for external AI models |
 | API **rate limiting with Traefik** to block abuse | SaaS integrations: **Jitsi Meet, PostHog, Stripe**, Google / Apple / Facebook OAuth |
-
-<br/>
-
-## 🔭 Currently
-
-- 🚀 Building & scaling a SaaS platform at **3CIX** on a self-managed Kubernetes cluster
-- 🧠 Going deeper into **Temporal.io** and **Next.js Server Components**
-- 💬 Ask me about **Kubernetes, Node.js, React, Django, CI/CD**
-- 🤝 Open to **freelance projects** on Upwork
-- 📫 Reach me at **ikrmaahmad47@gmail.com**
 
 <br/>
 
