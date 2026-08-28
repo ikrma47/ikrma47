@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:A855F7&height=220&section=header&text=Ikrma%20Ahmad&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Kubernetes%20%E2%80%A2%20Node.js%20%E2%80%A2%20React&descSize=18&descAlignY=58" width="100%" alt="Header banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Ikrma+%F0%9F%91%8B;Full+Stack+Developer+%40+3CIX;I+build+SaaS+products+and+run+them+on+Kubernetes;React+%7C+Next.js+%7C+Node.js+%7C+Django+%7C+K8s" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Ikrma+%F0%9F%91%8B;Full+Stack+Developer+%40+3CIX;I+build+SaaS+products+and+run+them+on+K8s;React+%7C+Next.js+%7C+Node.js+%7C+Django+%7C+K8s" alt="Typing animation" />
 
 <br/>
 
